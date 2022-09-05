@@ -25,11 +25,11 @@ Deliverable #2: inside repo's code, update the readme.md to contain two
 URL links to your flask app deployed on GCP and Azure
 
 Google Cloud Link:
-35.184.32.212
-35.184.32.212/sbu
-35.184.32.212/hants
+35.184.32.212 , 
+35.184.32.212/sbu , 
+35.184.32.212/hants 
 
 Azure Cloud Computing:
-20.171.58.240 
-20.171.58.240/sbu
-20.171.58.240/hants
+20.171.58.240 ,
+20.171.58.240/sbu , 
+20.171.58.240/hants , 
